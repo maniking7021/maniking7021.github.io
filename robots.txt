@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://maniking7021.github.io/sitemap.xml
